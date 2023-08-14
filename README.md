@@ -4,8 +4,10 @@
 Running YOLOv5 on HRSID dataset for maritime vessel detection
 
 [HRSID.pdf](https://github.com/AnshCharak/YOLOV5-HRSID-SHIP-DETECTION-/files/12334942/HRSID.pdf)
-![yolov5](https://github.com/AnshCharak/YOLOV5-HRSID-SHIP-DETECTION-/assets/60294845/b708d0db-3396-497e-b729-8e59abab15e4)
 
+
+## YOLOv5 Framework
+![yolov5](https://github.com/AnshCharak/YOLOV5-HRSID-SHIP-DETECTION-/assets/60294845/b708d0db-3396-497e-b729-8e59abab15e4)
 
 
 ####
