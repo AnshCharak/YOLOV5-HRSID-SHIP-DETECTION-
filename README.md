@@ -9,6 +9,12 @@ Running YOLOv5 on HRSID dataset for maritime vessel detection
 ## YOLOv5 Framework
 ![yolov5](https://github.com/AnshCharak/YOLOV5-HRSID-SHIP-DETECTION-/assets/60294845/b708d0db-3396-497e-b729-8e59abab15e4)
 
+YOLOv5's architecture consists of three main parts:
+
+Backbone: This is the main body of the network. For YOLOv5, the backbone is designed using the New CSP-Darknet53 structure, a modification of the Darknet architecture used in previous versions.
+Neck: This part connects the backbone and the head. In YOLOv5, SPPF and New CSP-PAN structures are utilized.
+Head: This part is responsible for generating the final output. YOLOv5 uses the YOLOv3 Head for this purpose.
+
 
 ####
 
